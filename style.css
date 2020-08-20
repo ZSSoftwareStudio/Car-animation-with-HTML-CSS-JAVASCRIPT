@@ -24,7 +24,7 @@ body{
 }
 .track{
     height: 60vh;
-    width: 100vw;
+    width: 800vw;
     background-image: url(track.png);
     background-repeat: repeat-x; 
     position: absolute;
